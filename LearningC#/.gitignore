@@ -1,0 +1,10 @@
+# Visual Studio
+.vs/
+
+# Binaries and intermediate files
+[Dd]ebug/
+[Rr]elease/
+*.exe
+*.dll
+*.pdb
+*.suo
