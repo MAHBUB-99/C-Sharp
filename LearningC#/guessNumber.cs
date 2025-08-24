@@ -1,6 +1,6 @@
 ﻿namespace LearningC_
 {
-    internal class Program
+    internal class guessNumber
     {
         static void Main(string[] args)
         {
@@ -11,7 +11,7 @@
             int count = 1;
             while (count<=10)
             {
-                Console.Write($"{count}th Guess : ");
+                Console.Write($"{count} no Guess : ");
                 int guess = int.Parse(Console.ReadLine());
                 if (guess == number)
                 {
