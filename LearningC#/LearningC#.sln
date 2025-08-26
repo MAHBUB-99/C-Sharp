@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningC#", "LearningC#.cs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "..\OOP\OOP.csproj", "{913EDC4E-62B1-4E94-8898-C46203AB32B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryManagementSystem", "..\LibraryManagementSystem\LibraryManagementSystem.csproj", "{24083BF3-508B-43D3-A3B5-4F001B883C67}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{913EDC4E-62B1-4E94-8898-C46203AB32B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{913EDC4E-62B1-4E94-8898-C46203AB32B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{913EDC4E-62B1-4E94-8898-C46203AB32B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24083BF3-508B-43D3-A3B5-4F001B883C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24083BF3-508B-43D3-A3B5-4F001B883C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24083BF3-508B-43D3-A3B5-4F001B883C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24083BF3-508B-43D3-A3B5-4F001B883C67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
