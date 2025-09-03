@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C#\\FirstApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D71912-3452-4FAC-A41B-B9C8613EC2BD}|FirstApi.csproj|f:\\c#\\firstapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D71912-3452-4FAC-A41B-B9C8613EC2BD}|FirstApi.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D71912-3452-4FAC-A41B-B9C8613EC2BD}|FirstApi.csproj|f:\\c#\\firstapi\\firstapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D9D71912-3452-4FAC-A41B-B9C8613EC2BD}|FirstApi.csproj|solutionrelative:firstapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D71912-3452-4FAC-A41B-B9C8613EC2BD}|FirstApi.csproj|f:\\c#\\firstapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D71912-3452-4FAC-A41B-B9C8613EC2BD}|FirstApi.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 234,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "F:\\C#\\FirstApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "F:\\C#\\FirstApi\\Controllers\\ProductsController.cs*",
+              "RelativeToolTip": "Controllers\\ProductsController.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T05:14:08.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FirstApi",
+              "DocumentMoniker": "F:\\C#\\FirstApi\\FirstApi.csproj",
+              "RelativeDocumentMoniker": "FirstApi.csproj",
+              "ToolTip": "F:\\C#\\FirstApi\\FirstApi.csproj",
+              "RelativeToolTip": "FirstApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-30T05:12:03.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "F:\\C#\\FirstApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "F:\\C#\\FirstApi\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T05:11:20.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
