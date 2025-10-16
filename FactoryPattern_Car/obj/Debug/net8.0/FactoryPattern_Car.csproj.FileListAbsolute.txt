@@ -1,0 +1,15 @@
+F:\C#\FactoryPattern_Car\bin\Debug\net8.0\FactoryPattern_Car.exe
+F:\C#\FactoryPattern_Car\bin\Debug\net8.0\FactoryPattern_Car.deps.json
+F:\C#\FactoryPattern_Car\bin\Debug\net8.0\FactoryPattern_Car.runtimeconfig.json
+F:\C#\FactoryPattern_Car\bin\Debug\net8.0\FactoryPattern_Car.dll
+F:\C#\FactoryPattern_Car\bin\Debug\net8.0\FactoryPattern_Car.pdb
+F:\C#\FactoryPattern_Car\obj\Debug\net8.0\FactoryPattern_Car.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\FactoryPattern_Car\obj\Debug\net8.0\FactoryPattern_Car.AssemblyInfoInputs.cache
+F:\C#\FactoryPattern_Car\obj\Debug\net8.0\FactoryPattern_Car.AssemblyInfo.cs
+F:\C#\FactoryPattern_Car\obj\Debug\net8.0\FactoryPattern_Car.csproj.CoreCompileInputs.cache
+F:\C#\FactoryPattern_Car\obj\Debug\net8.0\FactoryPattern_Car.sourcelink.json
+F:\C#\FactoryPattern_Car\obj\Debug\net8.0\FactoryPattern_Car.dll
+F:\C#\FactoryPattern_Car\obj\Debug\net8.0\refint\FactoryPattern_Car.dll
+F:\C#\FactoryPattern_Car\obj\Debug\net8.0\FactoryPattern_Car.pdb
+F:\C#\FactoryPattern_Car\obj\Debug\net8.0\FactoryPattern_Car.genruntimeconfig.cache
+F:\C#\FactoryPattern_Car\obj\Debug\net8.0\ref\FactoryPattern_Car.dll
