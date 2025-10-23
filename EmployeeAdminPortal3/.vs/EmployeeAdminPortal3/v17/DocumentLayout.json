@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C#\\EmployeeAdminPortal3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80007490-C33F-4E7C-A501-4B00A1115EB7}|EmployeeAdminPortal3\\EmployeeAdminPortal3.csproj|f:\\c#\\employeeadminportal3\\employeeadminportal3\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80007490-C33F-4E7C-A501-4B00A1115EB7}|EmployeeAdminPortal3\\EmployeeAdminPortal3.csproj|solutionrelative:employeeadminportal3\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80007490-C33F-4E7C-A501-4B00A1115EB7}|EmployeeAdminPortal3\\EmployeeAdminPortal3.csproj|f:\\c#\\employeeadminportal3\\employeeadminportal3\\models\\dtos\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80007490-C33F-4E7C-A501-4B00A1115EB7}|EmployeeAdminPortal3\\EmployeeAdminPortal3.csproj|solutionrelative:employeeadminportal3\\models\\dtos\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80007490-C33F-4E7C-A501-4B00A1115EB7}|EmployeeAdminPortal3\\EmployeeAdminPortal3.csproj|f:\\c#\\employeeadminportal3\\employeeadminportal3\\models\\dtos\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80007490-C33F-4E7C-A501-4B00A1115EB7}|EmployeeAdminPortal3\\EmployeeAdminPortal3.csproj|solutionrelative:employeeadminportal3\\models\\dtos\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80007490-C33F-4E7C-A501-4B00A1115EB7}|EmployeeAdminPortal3\\EmployeeAdminPortal3.csproj|f:\\c#\\employeeadminportal3\\employeeadminportal3\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80007490-C33F-4E7C-A501-4B00A1115EB7}|EmployeeAdminPortal3\\EmployeeAdminPortal3.csproj|solutionrelative:employeeadminportal3\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80007490-C33F-4E7C-A501-4B00A1115EB7}|EmployeeAdminPortal3\\EmployeeAdminPortal3.csproj|f:\\c#\\employeeadminportal3\\employeeadminportal3\\employeeadminportal3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80007490-C33F-4E7C-A501-4B00A1115EB7}|EmployeeAdminPortal3\\EmployeeAdminPortal3.csproj|solutionrelative:employeeadminportal3\\employeeadminportal3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80007490-C33F-4E7C-A501-4B00A1115EB7}|EmployeeAdminPortal3\\EmployeeAdminPortal3.csproj|f:\\c#\\employeeadminportal3\\employeeadminportal3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80007490-C33F-4E7C-A501-4B00A1115EB7}|EmployeeAdminPortal3\\EmployeeAdminPortal3.csproj|solutionrelative:employeeadminportal3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80007490-C33F-4E7C-A501-4B00A1115EB7}|EmployeeAdminPortal3\\EmployeeAdminPortal3.csproj|f:\\c#\\employeeadminportal3\\employeeadminportal3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{80007490-C33F-4E7C-A501-4B00A1115EB7}|EmployeeAdminPortal3\\EmployeeAdminPortal3.csproj|solutionrelative:employeeadminportal3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80007490-C33F-4E7C-A501-4B00A1115EB7}|EmployeeAdminPortal3\\EmployeeAdminPortal3.csproj|f:\\c#\\employeeadminportal3\\employeeadminportal3\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80007490-C33F-4E7C-A501-4B00A1115EB7}|EmployeeAdminPortal3\\EmployeeAdminPortal3.csproj|solutionrelative:employeeadminportal3\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 263,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateEmployeeDto.cs",
+              "DocumentMoniker": "F:\\C#\\EmployeeAdminPortal3\\EmployeeAdminPortal3\\Models\\DTOs\\UpdateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal3\\Models\\DTOs\\UpdateEmployeeDto.cs",
+              "ToolTip": "F:\\C#\\EmployeeAdminPortal3\\EmployeeAdminPortal3\\Models\\DTOs\\UpdateEmployeeDto.cs",
+              "RelativeToolTip": "EmployeeAdminPortal3\\Models\\DTOs\\UpdateEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T02:07:20.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddEmployeeDto.cs",
+              "DocumentMoniker": "F:\\C#\\EmployeeAdminPortal3\\EmployeeAdminPortal3\\Models\\DTOs\\AddEmployeeDto.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal3\\Models\\DTOs\\AddEmployeeDto.cs",
+              "ToolTip": "F:\\C#\\EmployeeAdminPortal3\\EmployeeAdminPortal3\\Models\\DTOs\\AddEmployeeDto.cs",
+              "RelativeToolTip": "EmployeeAdminPortal3\\Models\\DTOs\\AddEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T01:15:24.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "F:\\C#\\EmployeeAdminPortal3\\EmployeeAdminPortal3\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal3\\Controllers\\EmployeeController.cs",
+              "ToolTip": "F:\\C#\\EmployeeAdminPortal3\\EmployeeAdminPortal3\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeAdminPortal3\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T01:07:31.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\C#\\EmployeeAdminPortal3\\EmployeeAdminPortal3\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal3\\appsettings.json",
+              "ToolTip": "F:\\C#\\EmployeeAdminPortal3\\EmployeeAdminPortal3\\appsettings.json",
+              "RelativeToolTip": "EmployeeAdminPortal3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-23T00:41:31.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\C#\\EmployeeAdminPortal3\\EmployeeAdminPortal3\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal3\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\C#\\EmployeeAdminPortal3\\EmployeeAdminPortal3\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EmployeeAdminPortal3\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T00:38:50.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeAdminPortal3",
+              "DocumentMoniker": "F:\\C#\\EmployeeAdminPortal3\\EmployeeAdminPortal3\\EmployeeAdminPortal3.csproj",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal3\\EmployeeAdminPortal3.csproj",
+              "ToolTip": "F:\\C#\\EmployeeAdminPortal3\\EmployeeAdminPortal3\\EmployeeAdminPortal3.csproj",
+              "RelativeToolTip": "EmployeeAdminPortal3\\EmployeeAdminPortal3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-23T00:36:21.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "F:\\C#\\EmployeeAdminPortal3\\EmployeeAdminPortal3\\Models\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal3\\Models\\Entities\\Employee.cs",
+              "ToolTip": "F:\\C#\\EmployeeAdminPortal3\\EmployeeAdminPortal3\\Models\\Entities\\Employee.cs",
+              "RelativeToolTip": "EmployeeAdminPortal3\\Models\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T00:29:00.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C#\\EmployeeAdminPortal3\\EmployeeAdminPortal3\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal3\\Program.cs",
+              "ToolTip": "F:\\C#\\EmployeeAdminPortal3\\EmployeeAdminPortal3\\Program.cs",
+              "RelativeToolTip": "EmployeeAdminPortal3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T00:27:33.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
