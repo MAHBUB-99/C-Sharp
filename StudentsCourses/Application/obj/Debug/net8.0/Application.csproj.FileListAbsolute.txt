@@ -1,0 +1,12 @@
+F:\C#\StudentsCourses\Application\bin\Debug\net8.0\Application.deps.json
+F:\C#\StudentsCourses\Application\bin\Debug\net8.0\Application.dll
+F:\C#\StudentsCourses\Application\bin\Debug\net8.0\Application.pdb
+F:\C#\StudentsCourses\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\StudentsCourses\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+F:\C#\StudentsCourses\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+F:\C#\StudentsCourses\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+F:\C#\StudentsCourses\Application\obj\Debug\net8.0\Application.sourcelink.json
+F:\C#\StudentsCourses\Application\obj\Debug\net8.0\Application.dll
+F:\C#\StudentsCourses\Application\obj\Debug\net8.0\refint\Application.dll
+F:\C#\StudentsCourses\Application\obj\Debug\net8.0\Application.pdb
+F:\C#\StudentsCourses\Application\obj\Debug\net8.0\ref\Application.dll

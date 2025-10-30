@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C#\\StudentsCourses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24F24A4E-F260-4A85-8404-CC1272A20FFA}|Application\\Application.csproj|f:\\c#\\studentscourses\\application\\dtos\\courssedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F24A4E-F260-4A85-8404-CC1272A20FFA}|Application\\Application.csproj|solutionrelative:application\\dtos\\courssedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F24A4E-F260-4A85-8404-CC1272A20FFA}|Application\\Application.csproj|f:\\c#\\studentscourses\\application\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F24A4E-F260-4A85-8404-CC1272A20FFA}|Application\\Application.csproj|solutionrelative:application\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F24A4E-F260-4A85-8404-CC1272A20FFA}|Application\\Application.csproj|f:\\c#\\studentscourses\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{24F24A4E-F260-4A85-8404-CC1272A20FFA}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B86EFE-6A4C-4B75-8373-D2A2249A2237}|Infrastructure\\Infrastructure.csproj|f:\\c#\\studentscourses\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B86EFE-6A4C-4B75-8373-D2A2249A2237}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F18C38-3527-4CAD-911C-25542D1087EE}|Domain\\Domain.csproj|f:\\c#\\studentscourses\\domain\\entities\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F18C38-3527-4CAD-911C-25542D1087EE}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F18C38-3527-4CAD-911C-25542D1087EE}|Domain\\Domain.csproj|f:\\c#\\studentscourses\\domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F18C38-3527-4CAD-911C-25542D1087EE}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F18C38-3527-4CAD-911C-25542D1087EE}|Domain\\Domain.csproj|f:\\c#\\studentscourses\\domain\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F18C38-3527-4CAD-911C-25542D1087EE}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A31AF3E-3495-4DF0-BEFC-C6C835F4C897}|StudentsCourses\\StudentsCourses.csproj|f:\\c#\\studentscourses\\studentscourses\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A31AF3E-3495-4DF0-BEFC-C6C835F4C897}|StudentsCourses\\StudentsCourses.csproj|solutionrelative:studentscourses\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A31AF3E-3495-4DF0-BEFC-C6C835F4C897}|StudentsCourses\\StudentsCourses.csproj|f:\\c#\\studentscourses\\studentscourses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A31AF3E-3495-4DF0-BEFC-C6C835F4C897}|StudentsCourses\\StudentsCourses.csproj|solutionrelative:studentscourses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B86EFE-6A4C-4B75-8373-D2A2249A2237}|Infrastructure\\Infrastructure.csproj|f:\\c#\\studentscourses\\infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B86EFE-6A4C-4B75-8373-D2A2249A2237}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F24A4E-F260-4A85-8404-CC1272A20FFA}|Application\\Application.csproj|f:\\c#\\studentscourses\\application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F24A4E-F260-4A85-8404-CC1272A20FFA}|Application\\Application.csproj|solutionrelative:application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F18C38-3527-4CAD-911C-25542D1087EE}|Domain\\Domain.csproj|f:\\c#\\studentscourses\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F18C38-3527-4CAD-911C-25542D1087EE}|Domain\\Domain.csproj|solutionrelative:domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 263,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoursseDto.cs",
+              "DocumentMoniker": "F:\\C#\\StudentsCourses\\Application\\DTOs\\CoursseDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\CoursseDto.cs",
+              "ToolTip": "F:\\C#\\StudentsCourses\\Application\\DTOs\\CoursseDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\CoursseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T02:03:22.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "F:\\C#\\StudentsCourses\\Application\\DTOs\\StudentDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\StudentDto.cs",
+              "ToolTip": "F:\\C#\\StudentsCourses\\Application\\DTOs\\StudentDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\StudentDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T02:02:27.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Application",
+              "DocumentMoniker": "F:\\C#\\StudentsCourses\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "F:\\C#\\StudentsCourses\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-30T02:01:46.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C#\\StudentsCourses\\StudentsCourses\\Program.cs",
+              "RelativeDocumentMoniker": "StudentsCourses\\Program.cs",
+              "ToolTip": "F:\\C#\\StudentsCourses\\StudentsCourses\\Program.cs",
+              "RelativeToolTip": "StudentsCourses\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T02:07:18.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\C#\\StudentsCourses\\StudentsCourses\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentsCourses\\appsettings.json",
+              "ToolTip": "F:\\C#\\StudentsCourses\\StudentsCourses\\appsettings.json",
+              "RelativeToolTip": "StudentsCourses\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-29T02:06:44.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\C#\\StudentsCourses\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\C#\\StudentsCourses\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T02:04:29.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentCourse.cs",
+              "DocumentMoniker": "F:\\C#\\StudentsCourses\\Domain\\Entities\\StudentCourse.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\StudentCourse.cs",
+              "ToolTip": "F:\\C#\\StudentsCourses\\Domain\\Entities\\StudentCourse.cs",
+              "RelativeToolTip": "Domain\\Entities\\StudentCourse.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T01:50:18.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Course.cs",
+              "DocumentMoniker": "F:\\C#\\StudentsCourses\\Domain\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Course.cs",
+              "ToolTip": "F:\\C#\\StudentsCourses\\Domain\\Entities\\Course.cs",
+              "RelativeToolTip": "Domain\\Entities\\Course.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T01:49:24.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "F:\\C#\\StudentsCourses\\Domain\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Student.cs",
+              "ToolTip": "F:\\C#\\StudentsCourses\\Domain\\Entities\\Student.cs",
+              "RelativeToolTip": "Domain\\Entities\\Student.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T01:48:41.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "F:\\C#\\StudentsCourses\\Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Class1.cs",
+              "ToolTip": "F:\\C#\\StudentsCourses\\Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T01:47:54.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "F:\\C#\\StudentsCourses\\Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Application\\Class1.cs",
+              "ToolTip": "F:\\C#\\StudentsCourses\\Application\\Class1.cs",
+              "RelativeToolTip": "Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T01:47:25.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "F:\\C#\\StudentsCourses\\Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Domain\\Class1.cs",
+              "ToolTip": "F:\\C#\\StudentsCourses\\Domain\\Class1.cs",
+              "RelativeToolTip": "Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T01:47:00.41Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
