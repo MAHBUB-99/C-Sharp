@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C#\\CleanArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4051F9-4C1C-4FCD-8B98-3CFB524227BE}|CleanArchitecture\\CleanArchitecture.csproj|f:\\c#\\cleanarchitecture\\cleanarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4051F9-4C1C-4FCD-8B98-3CFB524227BE}|CleanArchitecture\\CleanArchitecture.csproj|solutionrelative:cleanarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4051F9-4C1C-4FCD-8B98-3CFB524227BE}|CleanArchitecture\\CleanArchitecture.csproj|f:\\c#\\cleanarchitecture\\cleanarchitecture\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4051F9-4C1C-4FCD-8B98-3CFB524227BE}|CleanArchitecture\\CleanArchitecture.csproj|solutionrelative:cleanarchitecture\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743058E7-4F6A-46AF-B4D0-31784A548BAF}|CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|f:\\c#\\cleanarchitecture\\cleanarchitecture.infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743058E7-4F6A-46AF-B4D0-31784A548BAF}|CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|solutionrelative:cleanarchitecture.infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA00A2E4-F82D-4CBB-9769-8FF51DDAA157}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|f:\\c#\\cleanarchitecture\\cleanarchitecture.application\\services\\student\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA00A2E4-F82D-4CBB-9769-8FF51DDAA157}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\services\\student\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA00A2E4-F82D-4CBB-9769-8FF51DDAA157}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|f:\\c#\\cleanarchitecture\\cleanarchitecture.application\\cleanarchitecture.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CA00A2E4-F82D-4CBB-9769-8FF51DDAA157}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\cleanarchitecture.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA00A2E4-F82D-4CBB-9769-8FF51DDAA157}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|f:\\c#\\cleanarchitecture\\cleanarchitecture.application\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA00A2E4-F82D-4CBB-9769-8FF51DDAA157}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA00A2E4-F82D-4CBB-9769-8FF51DDAA157}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|f:\\c#\\cleanarchitecture\\cleanarchitecture.application\\mappers\\studentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA00A2E4-F82D-4CBB-9769-8FF51DDAA157}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\mappers\\studentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA00A2E4-F82D-4CBB-9769-8FF51DDAA157}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|f:\\c#\\cleanarchitecture\\cleanarchitecture.application\\dtos\\student\\studentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA00A2E4-F82D-4CBB-9769-8FF51DDAA157}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\dtos\\student\\studentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA00A2E4-F82D-4CBB-9769-8FF51DDAA157}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|f:\\c#\\cleanarchitecture\\cleanarchitecture.application\\dtos\\student\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA00A2E4-F82D-4CBB-9769-8FF51DDAA157}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\dtos\\student\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA00A2E4-F82D-4CBB-9769-8FF51DDAA157}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|f:\\c#\\cleanarchitecture\\cleanarchitecture.application\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA00A2E4-F82D-4CBB-9769-8FF51DDAA157}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4051F9-4C1C-4FCD-8B98-3CFB524227BE}|CleanArchitecture\\CleanArchitecture.csproj|f:\\c#\\cleanarchitecture\\cleanarchitecture\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4051F9-4C1C-4FCD-8B98-3CFB524227BE}|CleanArchitecture\\CleanArchitecture.csproj|solutionrelative:cleanarchitecture\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4051F9-4C1C-4FCD-8B98-3CFB524227BE}|CleanArchitecture\\CleanArchitecture.csproj|f:\\c#\\cleanarchitecture\\cleanarchitecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B4051F9-4C1C-4FCD-8B98-3CFB524227BE}|CleanArchitecture\\CleanArchitecture.csproj|solutionrelative:cleanarchitecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743058E7-4F6A-46AF-B4D0-31784A548BAF}|CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|f:\\c#\\cleanarchitecture\\cleanarchitecture.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743058E7-4F6A-46AF-B4D0-31784A548BAF}|CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|solutionrelative:cleanarchitecture.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA00A2E4-F82D-4CBB-9769-8FF51DDAA157}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|f:\\c#\\cleanarchitecture\\cleanarchitecture.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA00A2E4-F82D-4CBB-9769-8FF51DDAA157}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 263,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\C#\\CleanArchitecture\\CleanArchitecture.Application\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Interfaces\\IApplicationDbContext.cs",
+              "ToolTip": "F:\\C#\\CleanArchitecture\\CleanArchitecture.Application\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Interfaces\\IApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T08:00:31.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "F:\\C#\\CleanArchitecture\\CleanArchitecture.Application\\Services\\Student\\StudentService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Services\\Student\\StudentService.cs",
+              "ToolTip": "F:\\C#\\CleanArchitecture\\CleanArchitecture.Application\\Services\\Student\\StudentService.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Services\\Student\\StudentService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T07:56:21.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentMapper.cs",
+              "DocumentMoniker": "F:\\C#\\CleanArchitecture\\CleanArchitecture.Application\\Mappers\\StudentMapper.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Mappers\\StudentMapper.cs",
+              "ToolTip": "F:\\C#\\CleanArchitecture\\CleanArchitecture.Application\\Mappers\\StudentMapper.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Mappers\\StudentMapper.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T07:47:57.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CleanArchitecture.Application",
+              "DocumentMoniker": "F:\\C#\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+              "ToolTip": "F:\\C#\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+              "RelativeToolTip": "CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-01T07:38:18.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C#\\CleanArchitecture\\CleanArchitecture\\Program.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture\\Program.cs",
+              "ToolTip": "F:\\C#\\CleanArchitecture\\CleanArchitecture\\Program.cs",
+              "RelativeToolTip": "CleanArchitecture\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T07:24:24.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\C#\\CleanArchitecture\\CleanArchitecture.Infrastructure\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Infrastructure\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\C#\\CleanArchitecture\\CleanArchitecture.Infrastructure\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CleanArchitecture.Infrastructure\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T07:19:09.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "F:\\C#\\CleanArchitecture\\CleanArchitecture\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture\\Controllers\\StudentsController.cs",
+              "ToolTip": "F:\\C#\\CleanArchitecture\\CleanArchitecture\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "CleanArchitecture\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T07:33:17.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentResponseDto.cs",
+              "DocumentMoniker": "F:\\C#\\CleanArchitecture\\CleanArchitecture.Application\\DTOs\\Student\\StudentResponseDto.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\DTOs\\Student\\StudentResponseDto.cs",
+              "ToolTip": "F:\\C#\\CleanArchitecture\\CleanArchitecture.Application\\DTOs\\Student\\StudentResponseDto.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\DTOs\\Student\\StudentResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T07:46:45.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateStudentDto.cs",
+              "DocumentMoniker": "F:\\C#\\CleanArchitecture\\CleanArchitecture.Application\\DTOs\\Student\\CreateStudentDto.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\DTOs\\Student\\CreateStudentDto.cs",
+              "ToolTip": "F:\\C#\\CleanArchitecture\\CleanArchitecture.Application\\DTOs\\Student\\CreateStudentDto.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\DTOs\\Student\\CreateStudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T07:41:07.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\C#\\CleanArchitecture\\CleanArchitecture\\appsettings.json",
+              "RelativeDocumentMoniker": "CleanArchitecture\\appsettings.json",
+              "ToolTip": "F:\\C#\\CleanArchitecture\\CleanArchitecture\\appsettings.json",
+              "RelativeToolTip": "CleanArchitecture\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-01T07:22:45.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "F:\\C#\\CleanArchitecture\\CleanArchitecture.Application\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Entities\\Student.cs",
+              "ToolTip": "F:\\C#\\CleanArchitecture\\CleanArchitecture.Application\\Entities\\Student.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T07:18:17.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "F:\\C#\\CleanArchitecture\\CleanArchitecture\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "F:\\C#\\CleanArchitecture\\CleanArchitecture\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "CleanArchitecture\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T07:32:51.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "F:\\C#\\CleanArchitecture\\CleanArchitecture.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Infrastructure\\Class1.cs",
+              "ToolTip": "F:\\C#\\CleanArchitecture\\CleanArchitecture.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "CleanArchitecture.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T07:17:50.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "F:\\C#\\CleanArchitecture\\CleanArchitecture.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Class1.cs",
+              "ToolTip": "F:\\C#\\CleanArchitecture\\CleanArchitecture.Application\\Class1.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T07:17:20.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
