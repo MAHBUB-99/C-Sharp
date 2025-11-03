@@ -8,7 +8,7 @@ using Test.Domain.Interface;
 
 namespace Test.Application.Services
 {
-    public class BlogService : IBlogServices
+    public class BlogService : IBlogService
     {
         private readonly IBlogRepository _blogRepository;
         public BlogService(IBlogRepository blogRepository)
