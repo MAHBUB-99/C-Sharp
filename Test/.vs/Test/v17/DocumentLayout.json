@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C#\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{851646C4-A3E7-4B13-80D2-D4786DC6DC91}|Test.Application\\Test.Application.csproj|f:\\c#\\test\\test.application\\services\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851646C4-A3E7-4B13-80D2-D4786DC6DC91}|Test.Application\\Test.Application.csproj|solutionrelative:test.application\\services\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851646C4-A3E7-4B13-80D2-D4786DC6DC91}|Test.Application\\Test.Application.csproj|f:\\c#\\test\\test.application\\services\\iblogservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851646C4-A3E7-4B13-80D2-D4786DC6DC91}|Test.Application\\Test.Application.csproj|solutionrelative:test.application\\services\\iblogservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851646C4-A3E7-4B13-80D2-D4786DC6DC91}|Test.Application\\Test.Application.csproj|f:\\c#\\test\\test.application\\test.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{851646C4-A3E7-4B13-80D2-D4786DC6DC91}|Test.Application\\Test.Application.csproj|solutionrelative:test.application\\test.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78403845-D1B7-400D-B8FB-60229E343334}|Test.Infrastructure\\Test.Infrastructure.csproj|f:\\c#\\test\\test.infrastructure\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78403845-D1B7-400D-B8FB-60229E343334}|Test.Infrastructure\\Test.Infrastructure.csproj|solutionrelative:test.infrastructure\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B266C0AC-28DE-4AA0-BC6D-A0CBF8E39458}|Test.Domain\\Test.Domain.csproj|f:\\c#\\test\\test.domain\\interface\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B266C0AC-28DE-4AA0-BC6D-A0CBF8E39458}|Test.Domain\\Test.Domain.csproj|solutionrelative:test.domain\\interface\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B266C0AC-28DE-4AA0-BC6D-A0CBF8E39458}|Test.Domain\\Test.Domain.csproj|f:\\c#\\test\\test.domain\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B266C0AC-28DE-4AA0-BC6D-A0CBF8E39458}|Test.Domain\\Test.Domain.csproj|solutionrelative:test.domain\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78403845-D1B7-400D-B8FB-60229E343334}|Test.Infrastructure\\Test.Infrastructure.csproj|f:\\c#\\test\\test.infrastructure\\data\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78403845-D1B7-400D-B8FB-60229E343334}|Test.Infrastructure\\Test.Infrastructure.csproj|solutionrelative:test.infrastructure\\data\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78403845-D1B7-400D-B8FB-60229E343334}|Test.Infrastructure\\Test.Infrastructure.csproj|f:\\c#\\test\\test.infrastructure\\test.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{78403845-D1B7-400D-B8FB-60229E343334}|Test.Infrastructure\\Test.Infrastructure.csproj|solutionrelative:test.infrastructure\\test.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B266C0AC-28DE-4AA0-BC6D-A0CBF8E39458}|Test.Domain\\Test.Domain.csproj|f:\\c#\\test\\test.domain\\test.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B266C0AC-28DE-4AA0-BC6D-A0CBF8E39458}|Test.Domain\\Test.Domain.csproj|solutionrelative:test.domain\\test.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 263,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogService.cs",
+              "DocumentMoniker": "F:\\C#\\Test\\Test.Application\\Services\\BlogService.cs",
+              "RelativeDocumentMoniker": "Test.Application\\Services\\BlogService.cs",
+              "ToolTip": "F:\\C#\\Test\\Test.Application\\Services\\BlogService.cs",
+              "RelativeToolTip": "Test.Application\\Services\\BlogService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAIA4wCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T01:59:09.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBlogServices.cs",
+              "DocumentMoniker": "F:\\C#\\Test\\Test.Application\\Services\\IBlogServices.cs",
+              "RelativeDocumentMoniker": "Test.Application\\Services\\IBlogServices.cs",
+              "ToolTip": "F:\\C#\\Test\\Test.Application\\Services\\IBlogServices.cs",
+              "RelativeToolTip": "Test.Application\\Services\\IBlogServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T01:42:34.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test.Application",
+              "DocumentMoniker": "F:\\C#\\Test\\Test.Application\\Test.Application.csproj",
+              "RelativeDocumentMoniker": "Test.Application\\Test.Application.csproj",
+              "ToolTip": "F:\\C#\\Test\\Test.Application\\Test.Application.csproj",
+              "RelativeToolTip": "Test.Application\\Test.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-03T01:41:53.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "F:\\C#\\Test\\Test.Infrastructure\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Test.Infrastructure\\Repository\\Repository.cs",
+              "ToolTip": "F:\\C#\\Test\\Test.Infrastructure\\Repository\\Repository.cs",
+              "RelativeToolTip": "Test.Infrastructure\\Repository\\Repository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:41:31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "F:\\C#\\Test\\Test.Domain\\Entities\\Blog.cs",
+              "RelativeDocumentMoniker": "Test.Domain\\Entities\\Blog.cs",
+              "ToolTip": "F:\\C#\\Test\\Test.Domain\\Entities\\Blog.cs",
+              "RelativeToolTip": "Test.Domain\\Entities\\Blog.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T17:58:43.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlogDBContext.cs",
+              "DocumentMoniker": "F:\\C#\\Test\\Test.Infrastructure\\Data\\BlogDBContext.cs",
+              "RelativeDocumentMoniker": "Test.Infrastructure\\Data\\BlogDBContext.cs",
+              "ToolTip": "F:\\C#\\Test\\Test.Infrastructure\\Data\\BlogDBContext.cs",
+              "RelativeToolTip": "Test.Infrastructure\\Data\\BlogDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:32:10.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Test.Infrastructure",
+              "DocumentMoniker": "F:\\C#\\Test\\Test.Infrastructure\\Test.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Test.Infrastructure\\Test.Infrastructure.csproj",
+              "ToolTip": "F:\\C#\\Test\\Test.Infrastructure\\Test.Infrastructure.csproj",
+              "RelativeToolTip": "Test.Infrastructure\\Test.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-02T18:31:09.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Test.Domain",
+              "DocumentMoniker": "F:\\C#\\Test\\Test.Domain\\Test.Domain.csproj",
+              "RelativeDocumentMoniker": "Test.Domain\\Test.Domain.csproj",
+              "ToolTip": "F:\\C#\\Test\\Test.Domain\\Test.Domain.csproj",
+              "RelativeToolTip": "Test.Domain\\Test.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-02T17:57:24.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBlogRepository.cs",
+              "DocumentMoniker": "F:\\C#\\Test\\Test.Domain\\Interface\\IBlogRepository.cs",
+              "RelativeDocumentMoniker": "Test.Domain\\Interface\\IBlogRepository.cs",
+              "ToolTip": "F:\\C#\\Test\\Test.Domain\\Interface\\IBlogRepository.cs",
+              "RelativeToolTip": "Test.Domain\\Interface\\IBlogRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:03:00.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
