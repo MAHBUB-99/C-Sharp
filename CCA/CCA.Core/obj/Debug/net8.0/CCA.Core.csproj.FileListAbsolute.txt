@@ -1,0 +1,11 @@
+C:\Users\TechnoNext\Desktop\CCA\CCA.Core\bin\Debug\net8.0\CCA.Core.deps.json
+C:\Users\TechnoNext\Desktop\CCA\CCA.Core\bin\Debug\net8.0\CCA.Core.dll
+C:\Users\TechnoNext\Desktop\CCA\CCA.Core\bin\Debug\net8.0\CCA.Core.pdb
+C:\Users\TechnoNext\Desktop\CCA\CCA.Core\obj\Debug\net8.0\CCA.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TechnoNext\Desktop\CCA\CCA.Core\obj\Debug\net8.0\CCA.Core.AssemblyInfoInputs.cache
+C:\Users\TechnoNext\Desktop\CCA\CCA.Core\obj\Debug\net8.0\CCA.Core.AssemblyInfo.cs
+C:\Users\TechnoNext\Desktop\CCA\CCA.Core\obj\Debug\net8.0\CCA.Core.csproj.CoreCompileInputs.cache
+C:\Users\TechnoNext\Desktop\CCA\CCA.Core\obj\Debug\net8.0\CCA.Core.dll
+C:\Users\TechnoNext\Desktop\CCA\CCA.Core\obj\Debug\net8.0\refint\CCA.Core.dll
+C:\Users\TechnoNext\Desktop\CCA\CCA.Core\obj\Debug\net8.0\CCA.Core.pdb
+C:\Users\TechnoNext\Desktop\CCA\CCA.Core\obj\Debug\net8.0\ref\CCA.Core.dll

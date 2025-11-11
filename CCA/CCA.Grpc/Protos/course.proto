@@ -1,0 +1,41 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcService.Protos";
+
+import "google/protobuf/empty.proto";
+
+service CourseGrpcService {
+  rpc GetAllCourses (PaginationRequest) returns (CourseListResponse);
+  rpc GetCourseById (CourseIdRequest) returns (CourseResponse);
+  rpc GetCoursesByCategory (CategoryIdRequest) returns (CourseListResponse);
+}
+
+message PaginationRequest {
+  int32 pageNumber = 1;
+  int32 pageSize = 2;
+}
+
+message CourseIdRequest {
+  int32 id = 1;
+}
+
+message CategoryIdRequest {
+  int32 categoryId = 1;
+  int32 pageNumber = 2;
+  int32 pageSize = 3;
+}
+
+message CourseResponse {
+  int32 id = 1;
+  string title = 2;
+  int32 categoryId = 3;
+  string categoryName = 4;
+}
+
+message CourseListResponse {
+  repeated CourseResponse courses = 1;
+  int32 totalCount = 2;
+  int32 currentPage = 3;
+  int32 pageSize = 4;
+  int32 totalPages = 5;
+}

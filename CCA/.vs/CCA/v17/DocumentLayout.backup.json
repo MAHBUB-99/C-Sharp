@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TechnoNext\\Desktop\\CCA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFAA359-32AC-427B-AA5A-6E00DDF5A06C}|CCA\\CCA.API.csproj|c:\\users\\technonext\\desktop\\cca\\cca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFAA359-32AC-427B-AA5A-6E00DDF5A06C}|CCA\\CCA.API.csproj|solutionrelative:cca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6ECF7C-7A2E-43B7-B6D0-CEC6567C09B9}|CCA.Grpc\\CCA.Grpc.csproj|c:\\users\\technonext\\desktop\\cca\\cca.grpc\\service\\coursegrpcserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6ECF7C-7A2E-43B7-B6D0-CEC6567C09B9}|CCA.Grpc\\CCA.Grpc.csproj|solutionrelative:cca.grpc\\service\\coursegrpcserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6ECF7C-7A2E-43B7-B6D0-CEC6567C09B9}|CCA.Grpc\\CCA.Grpc.csproj|c:\\users\\technonext\\desktop\\cca\\cca.grpc\\protos\\course.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{DF6ECF7C-7A2E-43B7-B6D0-CEC6567C09B9}|CCA.Grpc\\CCA.Grpc.csproj|solutionrelative:cca.grpc\\protos\\course.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6ECF7C-7A2E-43B7-B6D0-CEC6567C09B9}|CCA.Grpc\\CCA.Grpc.csproj|c:\\users\\technonext\\desktop\\cca\\cca.grpc\\cca.grpc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DF6ECF7C-7A2E-43B7-B6D0-CEC6567C09B9}|CCA.Grpc\\CCA.Grpc.csproj|solutionrelative:cca.grpc\\cca.grpc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFAA359-32AC-427B-AA5A-6E00DDF5A06C}|CCA\\CCA.API.csproj|c:\\users\\technonext\\desktop\\cca\\cca\\cca.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ABFAA359-32AC-427B-AA5A-6E00DDF5A06C}|CCA\\CCA.API.csproj|solutionrelative:cca\\cca.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 67,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CCA.API",
+              "DocumentMoniker": "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA\\CCA.API.csproj",
+              "RelativeDocumentMoniker": "CCA\\CCA.API.csproj",
+              "ToolTip": "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA\\CCA.API.csproj",
+              "RelativeToolTip": "CCA\\CCA.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-10T09:19:38.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA\\Program.cs",
+              "RelativeDocumentMoniker": "CCA\\Program.cs",
+              "ToolTip": "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA\\Program.cs",
+              "RelativeToolTip": "CCA\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:18:11.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseGrpcServiceImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA.Grpc\\Service\\CourseGrpcServiceImplementation.cs",
+              "RelativeDocumentMoniker": "CCA.Grpc\\Service\\CourseGrpcServiceImplementation.cs",
+              "ToolTip": "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA.Grpc\\Service\\CourseGrpcServiceImplementation.cs",
+              "RelativeToolTip": "CCA.Grpc\\Service\\CourseGrpcServiceImplementation.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAwEwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:14:14.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CCA.Grpc",
+              "DocumentMoniker": "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA.Grpc\\CCA.Grpc.csproj",
+              "RelativeDocumentMoniker": "CCA.Grpc\\CCA.Grpc.csproj",
+              "ToolTip": "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA.Grpc\\CCA.Grpc.csproj",
+              "RelativeToolTip": "CCA.Grpc\\CCA.Grpc.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-10T09:07:53.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "course.proto",
+              "DocumentMoniker": "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA.Grpc\\Protos\\course.proto",
+              "RelativeDocumentMoniker": "CCA.Grpc\\Protos\\course.proto",
+              "ToolTip": "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA.Grpc\\Protos\\course.proto",
+              "RelativeToolTip": "CCA.Grpc\\Protos\\course.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-11-10T09:10:11.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
