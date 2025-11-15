@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using PC.Application.Common;
 using PC.Application.DTOs;
 using PC.Application.IService;
 using PC.Application.Wrappers;
@@ -31,9 +32,9 @@ namespace PC.API.Controllers
 
         // GET: api/Product?page=1&pageSize=10
         [HttpGet]
-        public async Task<ActionResult<ServiceResponse<(List<ProductOutDto> Items, int TotalCount)>>> GetPaged([FromQuery] int page = 1, [FromQuery] int pageSize = 10)
+        public async Task<ActionResult<ServiceResponse<PaginatedResult<ProductOutDto>>>> GetPaged([FromQuery] PaginationParameters paginationParameters)
         {
-            var response = await _service.GetPagedAsync(page, pageSize);
+            var response = await _service.GetPagedAsync(paginationParameters);
 
             if (!response.Success)
                 return StatusCode(response.StatusCode, response);

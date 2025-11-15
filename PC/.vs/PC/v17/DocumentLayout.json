@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C#\\PC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{567FA6E1-C887-4F2E-B43D-58058FB28A17}|PC.Application\\PC.Application.csproj|f:\\c#\\pc\\pc.application\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567FA6E1-C887-4F2E-B43D-58058FB28A17}|PC.Application\\PC.Application.csproj|solutionrelative:pc.application\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1E9FC2-98B4-4051-BB85-17B4B19B8211}|PC.API\\PC.API.csproj|f:\\c#\\pc\\pc.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1E9FC2-98B4-4051-BB85-17B4B19B8211}|PC.API\\PC.API.csproj|solutionrelative:pc.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1E9FC2-98B4-4051-BB85-17B4B19B8211}|PC.API\\PC.API.csproj|f:\\c#\\pc\\pc.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E1E9FC2-98B4-4051-BB85-17B4B19B8211}|PC.API\\PC.API.csproj|solutionrelative:pc.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1E9FC2-98B4-4051-BB85-17B4B19B8211}|PC.API\\PC.API.csproj|f:\\c#\\pc\\pc.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1E9FC2-98B4-4051-BB85-17B4B19B8211}|PC.API\\PC.API.csproj|solutionrelative:pc.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567FA6E1-C887-4F2E-B43D-58058FB28A17}|PC.Application\\PC.Application.csproj|f:\\c#\\pc\\pc.application\\iservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567FA6E1-C887-4F2E-B43D-58058FB28A17}|PC.Application\\PC.Application.csproj|solutionrelative:pc.application\\iservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567FA6E1-C887-4F2E-B43D-58058FB28A17}|PC.Application\\PC.Application.csproj|f:\\c#\\pc\\pc.application\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567FA6E1-C887-4F2E-B43D-58058FB28A17}|PC.Application\\PC.Application.csproj|solutionrelative:pc.application\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4AB6CB-8B34-443C-AA33-5DF80EDE88C5}|PC.Infrastructure\\PC.Infrastructure.csproj|f:\\c#\\pc\\pc.infrastructure\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4AB6CB-8B34-443C-AA33-5DF80EDE88C5}|PC.Infrastructure\\PC.Infrastructure.csproj|solutionrelative:pc.infrastructure\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567FA6E1-C887-4F2E-B43D-58058FB28A17}|PC.Application\\PC.Application.csproj|f:\\c#\\pc\\pc.application\\common\\paginatedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567FA6E1-C887-4F2E-B43D-58058FB28A17}|PC.Application\\PC.Application.csproj|solutionrelative:pc.application\\common\\paginatedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567FA6E1-C887-4F2E-B43D-58058FB28A17}|PC.Application\\PC.Application.csproj|f:\\c#\\pc\\pc.application\\common\\paginationparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567FA6E1-C887-4F2E-B43D-58058FB28A17}|PC.Application\\PC.Application.csproj|solutionrelative:pc.application\\common\\paginationparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 181,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C#\\PC\\PC.API\\Program.cs",
+              "RelativeDocumentMoniker": "PC.API\\Program.cs",
+              "ToolTip": "F:\\C#\\PC\\PC.API\\Program.cs",
+              "RelativeToolTip": "PC.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T19:34:31.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\C#\\PC\\PC.API\\appsettings.json",
+              "RelativeDocumentMoniker": "PC.API\\appsettings.json",
+              "ToolTip": "F:\\C#\\PC\\PC.API\\appsettings.json",
+              "RelativeToolTip": "PC.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-15T19:33:46.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "F:\\C#\\PC\\PC.Application\\IRepository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "PC.Application\\IRepository\\IProductRepository.cs",
+              "ToolTip": "F:\\C#\\PC\\PC.Application\\IRepository\\IProductRepository.cs",
+              "RelativeToolTip": "PC.Application\\IRepository\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T12:14:37.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "F:\\C#\\PC\\PC.Infrastructure\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "PC.Infrastructure\\Repository\\ProductRepository.cs",
+              "ToolTip": "F:\\C#\\PC\\PC.Infrastructure\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "PC.Infrastructure\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAvwDYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T11:56:51.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "F:\\C#\\PC\\PC.Application\\IService\\IProductService.cs",
+              "RelativeDocumentMoniker": "PC.Application\\IService\\IProductService.cs",
+              "ToolTip": "F:\\C#\\PC\\PC.Application\\IService\\IProductService.cs",
+              "RelativeToolTip": "PC.Application\\IService\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T11:54:35.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaginatedResult.cs",
+              "DocumentMoniker": "F:\\C#\\PC\\PC.Application\\Common\\PaginatedResult.cs",
+              "RelativeDocumentMoniker": "PC.Application\\Common\\PaginatedResult.cs",
+              "ToolTip": "F:\\C#\\PC\\PC.Application\\Common\\PaginatedResult.cs",
+              "RelativeToolTip": "PC.Application\\Common\\PaginatedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T12:13:13.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaginationParameters.cs",
+              "DocumentMoniker": "F:\\C#\\PC\\PC.Application\\Common\\PaginationParameters.cs",
+              "RelativeDocumentMoniker": "PC.Application\\Common\\PaginationParameters.cs",
+              "ToolTip": "F:\\C#\\PC\\PC.Application\\Common\\PaginationParameters.cs",
+              "RelativeToolTip": "PC.Application\\Common\\PaginationParameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T12:10:03.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "F:\\C#\\PC\\PC.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "PC.API\\Controllers\\ProductController.cs",
+              "ToolTip": "F:\\C#\\PC\\PC.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "PC.API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAYwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T11:57:18.639Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 219,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "F:\\C#\\PC\\PC.Application\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "PC.Application\\Service\\ProductService.cs",
+              "ToolTip": "F:\\C#\\PC\\PC.Application\\Service\\ProductService.cs",
+              "RelativeToolTip": "PC.Application\\Service\\ProductService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwEEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T11:54:42.151Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

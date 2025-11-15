@@ -11,6 +11,7 @@
           "Microsoft.EntityFrameworkCore.Design": "8.0.22",
           "PC.Application": "1.0.0",
           "PC.Infrastructure": "1.0.0",
+          "StackExchange.Redis": "2.9.32",
           "Swashbuckle.AspNetCore": "6.6.2"
         },
         "runtime": {
@@ -615,7 +616,8 @@
       "PC.Application/1.0.0": {
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "8.1.1",
-          "PC.Domain": "1.0.0"
+          "PC.Domain": "1.0.0",
+          "StackExchange.Redis": "2.9.32"
         },
         "runtime": {
           "PC.Application.dll": {

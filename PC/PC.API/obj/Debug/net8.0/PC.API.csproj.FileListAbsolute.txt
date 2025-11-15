@@ -122,3 +122,4 @@ F:\C#\PC\PC.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.
 F:\C#\PC\PC.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 F:\C#\PC\PC.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 F:\C#\PC\PC.API\obj\Debug\net8.0\PC.API.MvcApplicationPartsAssemblyInfo.cs
+F:\C#\PC\PC.API\bin\Debug\net8.0\libman.json

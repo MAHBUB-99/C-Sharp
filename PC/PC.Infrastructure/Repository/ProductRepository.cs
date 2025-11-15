@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using PC.Application.Common;
 using PC.Application.IRepository;
 using PC.Domain.Product;
 using PC.Infrastructure.Persistance;
@@ -45,7 +46,7 @@ namespace PC.Infrastructure.Repository
         }
 
         // Get paged products
-        public async Task<(List<Product> Items, int TotalCount)> GetPagedAsync(int page, int pageSize)
+        public async Task<PaginatedResult<Product>> GetPagedAsync(PaginationParameters parameters)
         {
             var query = _context.Products.AsQueryable();
 
@@ -53,11 +54,17 @@ namespace PC.Infrastructure.Repository
 
             var items = await query
                 .OrderBy(p => p.Id)
-                .Skip((page - 1) * pageSize)
-                .Take(pageSize)
+                .Skip((parameters.Page - 1) * parameters.PageSize)
+                .Take(parameters.PageSize)
                 .ToListAsync();
 
-            return (items, totalCount);
+            return new PaginatedResult<Product>
+            {
+                Items = items,
+                TotalCount = totalCount,
+                Page = parameters.Page,
+                PageSize = parameters.PageSize
+            };
         }
 
         // Update a product
