@@ -1,0 +1,16 @@
+F:\C#\PC\PC.Application\obj\Debug\net8.0\PC.Application.csproj.AssemblyReference.cache
+F:\C#\PC\PC.Application\obj\Debug\net8.0\PC.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\PC\PC.Application\obj\Debug\net8.0\PC.Application.AssemblyInfoInputs.cache
+F:\C#\PC\PC.Application\obj\Debug\net8.0\PC.Application.AssemblyInfo.cs
+F:\C#\PC\PC.Application\obj\Debug\net8.0\PC.Application.csproj.CoreCompileInputs.cache
+F:\C#\PC\PC.Application\obj\Debug\net8.0\PC.Application.sourcelink.json
+F:\C#\PC\PC.Application\bin\Debug\net8.0\PC.Application.deps.json
+F:\C#\PC\PC.Application\bin\Debug\net8.0\PC.Application.dll
+F:\C#\PC\PC.Application\bin\Debug\net8.0\PC.Application.pdb
+F:\C#\PC\PC.Application\bin\Debug\net8.0\PC.Domain.dll
+F:\C#\PC\PC.Application\bin\Debug\net8.0\PC.Domain.pdb
+F:\C#\PC\PC.Application\obj\Debug\net8.0\PC.Appli.7297A36C.Up2Date
+F:\C#\PC\PC.Application\obj\Debug\net8.0\PC.Application.dll
+F:\C#\PC\PC.Application\obj\Debug\net8.0\refint\PC.Application.dll
+F:\C#\PC\PC.Application\obj\Debug\net8.0\PC.Application.pdb
+F:\C#\PC\PC.Application\obj\Debug\net8.0\ref\PC.Application.dll

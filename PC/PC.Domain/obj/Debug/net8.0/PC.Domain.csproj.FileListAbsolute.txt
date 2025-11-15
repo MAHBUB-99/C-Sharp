@@ -1,0 +1,12 @@
+F:\C#\PC\PC.Domain\obj\Debug\net8.0\PC.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\PC\PC.Domain\obj\Debug\net8.0\PC.Domain.AssemblyInfoInputs.cache
+F:\C#\PC\PC.Domain\obj\Debug\net8.0\PC.Domain.AssemblyInfo.cs
+F:\C#\PC\PC.Domain\obj\Debug\net8.0\PC.Domain.csproj.CoreCompileInputs.cache
+F:\C#\PC\PC.Domain\obj\Debug\net8.0\PC.Domain.sourcelink.json
+F:\C#\PC\PC.Domain\bin\Debug\net8.0\PC.Domain.deps.json
+F:\C#\PC\PC.Domain\bin\Debug\net8.0\PC.Domain.dll
+F:\C#\PC\PC.Domain\bin\Debug\net8.0\PC.Domain.pdb
+F:\C#\PC\PC.Domain\obj\Debug\net8.0\PC.Domain.dll
+F:\C#\PC\PC.Domain\obj\Debug\net8.0\refint\PC.Domain.dll
+F:\C#\PC\PC.Domain\obj\Debug\net8.0\PC.Domain.pdb
+F:\C#\PC\PC.Domain\obj\Debug\net8.0\ref\PC.Domain.dll
