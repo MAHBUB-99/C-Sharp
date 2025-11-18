@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA.Application\\CCA.Application.csproj": {}
+    "F:\\C#\\CCA\\CCA.Application\\CCA.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA.Application\\CCA.Application.csproj": {
+    "F:\\C#\\CCA\\CCA.Application\\CCA.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA.Application\\CCA.Application.csproj",
+        "projectUniqueName": "F:\\C#\\CCA\\CCA.Application\\CCA.Application.csproj",
         "projectName": "CCA.Application",
-        "projectPath": "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA.Application\\CCA.Application.csproj",
-        "packagesPath": "C:\\Users\\TechnoNext\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA.Application\\obj\\",
+        "projectPath": "F:\\C#\\CCA\\CCA.Application\\CCA.Application.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "F:\\C#\\CCA\\CCA.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\TechnoNext\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA.Core\\CCA.Core.csproj": {
-                "projectPath": "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA.Core\\CCA.Core.csproj"
+              "F:\\C#\\CCA\\CCA.Core\\CCA.Core.csproj": {
+                "projectPath": "F:\\C#\\CCA\\CCA.Core\\CCA.Core.csproj"
               }
             }
           }
@@ -80,20 +80,20 @@
         }
       }
     },
-    "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA.Core\\CCA.Core.csproj": {
+    "F:\\C#\\CCA\\CCA.Core\\CCA.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA.Core\\CCA.Core.csproj",
+        "projectUniqueName": "F:\\C#\\CCA\\CCA.Core\\CCA.Core.csproj",
         "projectName": "CCA.Core",
-        "projectPath": "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA.Core\\CCA.Core.csproj",
-        "packagesPath": "C:\\Users\\TechnoNext\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA.Core\\obj\\",
+        "projectPath": "F:\\C#\\CCA\\CCA.Core\\CCA.Core.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "F:\\C#\\CCA\\CCA.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\TechnoNext\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

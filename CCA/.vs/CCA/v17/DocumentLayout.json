@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\TechnoNext\\Desktop\\CCA\\",
+  "WorkspaceRootPath": "F:\\C#\\CCA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF6ECF7C-7A2E-43B7-B6D0-CEC6567C09B9}|CCA.Grpc\\CCA.Grpc.csproj|c:\\users\\technonext\\desktop\\cca\\cca.grpc\\service\\coursegrpcserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DF6ECF7C-7A2E-43B7-B6D0-CEC6567C09B9}|CCA.Grpc\\CCA.Grpc.csproj|f:\\c#\\cca\\cca.grpc\\service\\coursegrpcserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF6ECF7C-7A2E-43B7-B6D0-CEC6567C09B9}|CCA.Grpc\\CCA.Grpc.csproj|solutionrelative:cca.grpc\\service\\coursegrpcserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D42288B-6A48-4E5B-B517-C53255489C61}|CCA.Application\\CCA.Application.csproj|c:\\users\\technonext\\desktop\\cca\\cca.application\\service\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D42288B-6A48-4E5B-B517-C53255489C61}|CCA.Application\\CCA.Application.csproj|f:\\c#\\cca\\cca.application\\service\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D42288B-6A48-4E5B-B517-C53255489C61}|CCA.Application\\CCA.Application.csproj|solutionrelative:cca.application\\service\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF6ECF7C-7A2E-43B7-B6D0-CEC6567C09B9}|CCA.Grpc\\CCA.Grpc.csproj|c:\\users\\technonext\\desktop\\cca\\cca.grpc\\protos\\course.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "AbsoluteMoniker": "D:0:0:{DF6ECF7C-7A2E-43B7-B6D0-CEC6567C09B9}|CCA.Grpc\\CCA.Grpc.csproj|f:\\c#\\cca\\cca.grpc\\protos\\course.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{DF6ECF7C-7A2E-43B7-B6D0-CEC6567C09B9}|CCA.Grpc\\CCA.Grpc.csproj|solutionrelative:cca.grpc\\protos\\course.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D42288B-6A48-4E5B-B517-C53255489C61}|CCA.Application\\CCA.Application.csproj|c:\\users\\technonext\\desktop\\cca\\cca.application\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D42288B-6A48-4E5B-B517-C53255489C61}|CCA.Application\\CCA.Application.csproj|f:\\c#\\cca\\cca.application\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D42288B-6A48-4E5B-B517-C53255489C61}|CCA.Application\\CCA.Application.csproj|solutionrelative:cca.application\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0393D36C-9811-4FB5-ADFE-F66007C5A5E3}|CCA.Core\\CCA.Core.csproj|c:\\users\\technonext\\desktop\\cca\\cca.core\\entities\\coursecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0393D36C-9811-4FB5-ADFE-F66007C5A5E3}|CCA.Core\\CCA.Core.csproj|f:\\c#\\cca\\cca.core\\entities\\coursecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0393D36C-9811-4FB5-ADFE-F66007C5A5E3}|CCA.Core\\CCA.Core.csproj|solutionrelative:cca.core\\entities\\coursecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0393D36C-9811-4FB5-ADFE-F66007C5A5E3}|CCA.Core\\CCA.Core.csproj|c:\\users\\technonext\\desktop\\cca\\cca.core\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0393D36C-9811-4FB5-ADFE-F66007C5A5E3}|CCA.Core\\CCA.Core.csproj|f:\\c#\\cca\\cca.core\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0393D36C-9811-4FB5-ADFE-F66007C5A5E3}|CCA.Core\\CCA.Core.csproj|solutionrelative:cca.core\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0393D36C-9811-4FB5-ADFE-F66007C5A5E3}|CCA.Core\\CCA.Core.csproj|c:\\users\\technonext\\desktop\\cca\\cca.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0393D36C-9811-4FB5-ADFE-F66007C5A5E3}|CCA.Core\\CCA.Core.csproj|f:\\c#\\cca\\cca.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0393D36C-9811-4FB5-ADFE-F66007C5A5E3}|CCA.Core\\CCA.Core.csproj|solutionrelative:cca.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABFAA359-32AC-427B-AA5A-6E00DDF5A06C}|CCA\\CCA.API.csproj|c:\\users\\technonext\\desktop\\cca\\cca\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ABFAA359-32AC-427B-AA5A-6E00DDF5A06C}|CCA\\CCA.API.csproj|f:\\c#\\cca\\cca\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABFAA359-32AC-427B-AA5A-6E00DDF5A06C}|CCA\\CCA.API.csproj|solutionrelative:cca\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,17 +42,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 67,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CourseGrpcServiceImplementation.cs",
-              "DocumentMoniker": "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA.Grpc\\Service\\CourseGrpcServiceImplementation.cs",
+              "DocumentMoniker": "F:\\C#\\CCA\\CCA.Grpc\\Service\\CourseGrpcServiceImplementation.cs",
               "RelativeDocumentMoniker": "CCA.Grpc\\Service\\CourseGrpcServiceImplementation.cs",
-              "ToolTip": "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA.Grpc\\Service\\CourseGrpcServiceImplementation.cs",
+              "ToolTip": "F:\\C#\\CCA\\CCA.Grpc\\Service\\CourseGrpcServiceImplementation.cs",
               "RelativeToolTip": "CCA.Grpc\\Service\\CourseGrpcServiceImplementation.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCEAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-10T09:58:20.661Z",
               "EditorCaption": ""
@@ -61,92 +65,85 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "course.proto",
-              "DocumentMoniker": "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA.Grpc\\Protos\\course.proto",
+              "DocumentMoniker": "F:\\C#\\CCA\\CCA.Grpc\\Protos\\course.proto",
               "RelativeDocumentMoniker": "CCA.Grpc\\Protos\\course.proto",
-              "ToolTip": "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA.Grpc\\Protos\\course.proto",
+              "ToolTip": "F:\\C#\\CCA\\CCA.Grpc\\Protos\\course.proto",
               "RelativeToolTip": "CCA.Grpc\\Protos\\course.proto",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
-              "WhenOpened": "2025-11-10T09:58:00.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T09:58:00.956Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "AutoMapperProfile.cs",
-              "DocumentMoniker": "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA.Application\\Mappings\\AutoMapperProfile.cs",
+              "DocumentMoniker": "F:\\C#\\CCA\\CCA.Application\\Mappings\\AutoMapperProfile.cs",
               "RelativeDocumentMoniker": "CCA.Application\\Mappings\\AutoMapperProfile.cs",
-              "ToolTip": "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA.Application\\Mappings\\AutoMapperProfile.cs",
+              "ToolTip": "F:\\C#\\CCA\\CCA.Application\\Mappings\\AutoMapperProfile.cs",
               "RelativeToolTip": "CCA.Application\\Mappings\\AutoMapperProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T09:56:52.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T09:56:52.983Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CourseService.cs",
-              "DocumentMoniker": "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA.Application\\Service\\CourseService.cs",
+              "DocumentMoniker": "F:\\C#\\CCA\\CCA.Application\\Service\\CourseService.cs",
               "RelativeDocumentMoniker": "CCA.Application\\Service\\CourseService.cs",
-              "ToolTip": "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA.Application\\Service\\CourseService.cs",
+              "ToolTip": "F:\\C#\\CCA\\CCA.Application\\Service\\CourseService.cs",
               "RelativeToolTip": "CCA.Application\\Service\\CourseService.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAnwBsAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T09:53:37.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T09:53:37.375Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA.Core\\Entities\\BaseEntity.cs",
+              "DocumentMoniker": "F:\\C#\\CCA\\CCA.Core\\Entities\\BaseEntity.cs",
               "RelativeDocumentMoniker": "CCA.Core\\Entities\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA.Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "F:\\C#\\CCA\\CCA.Core\\Entities\\BaseEntity.cs",
               "RelativeToolTip": "CCA.Core\\Entities\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T09:55:17.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T09:55:17.013Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "CourseController.cs",
-              "DocumentMoniker": "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA\\Controllers\\CourseController.cs",
+              "DocumentMoniker": "F:\\C#\\CCA\\CCA\\Controllers\\CourseController.cs",
               "RelativeDocumentMoniker": "CCA\\Controllers\\CourseController.cs",
-              "ToolTip": "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA\\Controllers\\CourseController.cs",
+              "ToolTip": "F:\\C#\\CCA\\CCA\\Controllers\\CourseController.cs",
               "RelativeToolTip": "CCA\\Controllers\\CourseController.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAYwCYAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T09:52:49.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T09:52:49.019Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "CourseCategory.cs",
-              "DocumentMoniker": "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA.Core\\Entities\\CourseCategory.cs",
+              "DocumentMoniker": "F:\\C#\\CCA\\CCA.Core\\Entities\\CourseCategory.cs",
               "RelativeDocumentMoniker": "CCA.Core\\Entities\\CourseCategory.cs",
-              "ToolTip": "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA.Core\\Entities\\CourseCategory.cs",
+              "ToolTip": "F:\\C#\\CCA\\CCA.Core\\Entities\\CourseCategory.cs",
               "RelativeToolTip": "CCA.Core\\Entities\\CourseCategory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T09:51:57.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T09:51:57.52Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Course.cs",
-              "DocumentMoniker": "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA.Core\\Entities\\Course.cs",
+              "DocumentMoniker": "F:\\C#\\CCA\\CCA.Core\\Entities\\Course.cs",
               "RelativeDocumentMoniker": "CCA.Core\\Entities\\Course.cs",
-              "ToolTip": "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA.Core\\Entities\\Course.cs",
+              "ToolTip": "F:\\C#\\CCA\\CCA.Core\\Entities\\Course.cs",
               "RelativeToolTip": "CCA.Core\\Entities\\Course.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T09:51:37.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T09:51:37.083Z"
             }
           ]
         }

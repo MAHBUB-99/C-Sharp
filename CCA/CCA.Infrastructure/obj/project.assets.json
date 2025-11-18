@@ -2386,23 +2386,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\TechnoNext\\.nuget\\packages\\": {},
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA.Infrastructure\\CCA.Infrastructure.csproj",
+      "projectUniqueName": "F:\\C#\\CCA\\CCA.Infrastructure\\CCA.Infrastructure.csproj",
       "projectName": "CCA.Infrastructure",
-      "projectPath": "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA.Infrastructure\\CCA.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\TechnoNext\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA.Infrastructure\\obj\\",
+      "projectPath": "F:\\C#\\CCA\\CCA.Infrastructure\\CCA.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "F:\\C#\\CCA\\CCA.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\TechnoNext\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2418,11 +2418,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA.Application\\CCA.Application.csproj": {
-              "projectPath": "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA.Application\\CCA.Application.csproj"
+            "F:\\C#\\CCA\\CCA.Application\\CCA.Application.csproj": {
+              "projectPath": "F:\\C#\\CCA\\CCA.Application\\CCA.Application.csproj"
             },
-            "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA.Core\\CCA.Core.csproj": {
-              "projectPath": "C:\\Users\\TechnoNext\\Desktop\\CCA\\CCA.Core\\CCA.Core.csproj"
+            "F:\\C#\\CCA\\CCA.Core\\CCA.Core.csproj": {
+              "projectPath": "F:\\C#\\CCA\\CCA.Core\\CCA.Core.csproj"
             }
           }
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CCA.Grpc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87e9aa6e2c8e0589426d37802550235f837e99bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("CCA.Grpc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CCA.Grpc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

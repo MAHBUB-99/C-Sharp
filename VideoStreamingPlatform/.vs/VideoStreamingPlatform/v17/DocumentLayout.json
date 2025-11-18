@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C#\\VideoStreamingPlatform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DD7FA2-9821-41B7-B36A-0982C270D119}|VideoStreamingPlatform.API\\VideoStreamingPlatform.API.csproj|f:\\c#\\videostreamingplatform\\videostreamingplatform.api\\controllers\\videouploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DD7FA2-9821-41B7-B36A-0982C270D119}|VideoStreamingPlatform.API\\VideoStreamingPlatform.API.csproj|solutionrelative:videostreamingplatform.api\\controllers\\videouploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DD7FA2-9821-41B7-B36A-0982C270D119}|VideoStreamingPlatform.API\\VideoStreamingPlatform.API.csproj|f:\\c#\\videostreamingplatform\\videostreamingplatform.api\\controllers\\videomanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DD7FA2-9821-41B7-B36A-0982C270D119}|VideoStreamingPlatform.API\\VideoStreamingPlatform.API.csproj|solutionrelative:videostreamingplatform.api\\controllers\\videomanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DD7FA2-9821-41B7-B36A-0982C270D119}|VideoStreamingPlatform.API\\VideoStreamingPlatform.API.csproj|f:\\c#\\videostreamingplatform\\videostreamingplatform.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DD7FA2-9821-41B7-B36A-0982C270D119}|VideoStreamingPlatform.API\\VideoStreamingPlatform.API.csproj|solutionrelative:videostreamingplatform.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DD7FA2-9821-41B7-B36A-0982C270D119}|VideoStreamingPlatform.API\\VideoStreamingPlatform.API.csproj|f:\\c#\\videostreamingplatform\\videostreamingplatform.api\\controllers\\videosearchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DD7FA2-9821-41B7-B36A-0982C270D119}|VideoStreamingPlatform.API\\VideoStreamingPlatform.API.csproj|solutionrelative:videostreamingplatform.api\\controllers\\videosearchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DD7FA2-9821-41B7-B36A-0982C270D119}|VideoStreamingPlatform.API\\VideoStreamingPlatform.API.csproj|f:\\c#\\videostreamingplatform\\videostreamingplatform.api\\controllers\\videostreamingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DD7FA2-9821-41B7-B36A-0982C270D119}|VideoStreamingPlatform.API\\VideoStreamingPlatform.API.csproj|solutionrelative:videostreamingplatform.api\\controllers\\videostreamingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 181,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "F:\\C#\\VideoStreamingPlatform\\VideoStreamingPlatform.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "VideoStreamingPlatform.API\\Controllers\\AuthController.cs",
+              "ToolTip": "F:\\C#\\VideoStreamingPlatform\\VideoStreamingPlatform.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "VideoStreamingPlatform.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:31:23.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VideoUploadController.cs",
+              "DocumentMoniker": "F:\\C#\\VideoStreamingPlatform\\VideoStreamingPlatform.API\\Controllers\\VideoUploadController.cs",
+              "RelativeDocumentMoniker": "VideoStreamingPlatform.API\\Controllers\\VideoUploadController.cs",
+              "ToolTip": "F:\\C#\\VideoStreamingPlatform\\VideoStreamingPlatform.API\\Controllers\\VideoUploadController.cs",
+              "RelativeToolTip": "VideoStreamingPlatform.API\\Controllers\\VideoUploadController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:23:28.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VideoSearchController.cs",
+              "DocumentMoniker": "F:\\C#\\VideoStreamingPlatform\\VideoStreamingPlatform.API\\Controllers\\VideoSearchController.cs",
+              "RelativeDocumentMoniker": "VideoStreamingPlatform.API\\Controllers\\VideoSearchController.cs",
+              "ToolTip": "F:\\C#\\VideoStreamingPlatform\\VideoStreamingPlatform.API\\Controllers\\VideoSearchController.cs",
+              "RelativeToolTip": "VideoStreamingPlatform.API\\Controllers\\VideoSearchController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:19:06.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VideoStreamingController.cs",
+              "DocumentMoniker": "F:\\C#\\VideoStreamingPlatform\\VideoStreamingPlatform.API\\Controllers\\VideoStreamingController.cs",
+              "RelativeDocumentMoniker": "VideoStreamingPlatform.API\\Controllers\\VideoStreamingController.cs",
+              "ToolTip": "F:\\C#\\VideoStreamingPlatform\\VideoStreamingPlatform.API\\Controllers\\VideoStreamingController.cs",
+              "RelativeToolTip": "VideoStreamingPlatform.API\\Controllers\\VideoStreamingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:13:23.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VideoManagementController.cs",
+              "DocumentMoniker": "F:\\C#\\VideoStreamingPlatform\\VideoStreamingPlatform.API\\Controllers\\VideoManagementController.cs",
+              "RelativeDocumentMoniker": "VideoStreamingPlatform.API\\Controllers\\VideoManagementController.cs",
+              "ToolTip": "F:\\C#\\VideoStreamingPlatform\\VideoStreamingPlatform.API\\Controllers\\VideoManagementController.cs",
+              "RelativeToolTip": "VideoStreamingPlatform.API\\Controllers\\VideoManagementController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA+wBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:02:50.754Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
