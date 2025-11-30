@@ -1,0 +1,6 @@
+@KC_O.API_HostAddress = http://localhost:5017
+
+GET {{KC_O.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

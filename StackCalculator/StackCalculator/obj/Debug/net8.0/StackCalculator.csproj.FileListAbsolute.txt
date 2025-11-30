@@ -1,0 +1,15 @@
+F:\C#\StackCalculator\StackCalculator\bin\Debug\net8.0\StackCalculator.exe
+F:\C#\StackCalculator\StackCalculator\bin\Debug\net8.0\StackCalculator.deps.json
+F:\C#\StackCalculator\StackCalculator\bin\Debug\net8.0\StackCalculator.runtimeconfig.json
+F:\C#\StackCalculator\StackCalculator\bin\Debug\net8.0\StackCalculator.dll
+F:\C#\StackCalculator\StackCalculator\bin\Debug\net8.0\StackCalculator.pdb
+F:\C#\StackCalculator\StackCalculator\obj\Debug\net8.0\StackCalculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\StackCalculator\StackCalculator\obj\Debug\net8.0\StackCalculator.AssemblyInfoInputs.cache
+F:\C#\StackCalculator\StackCalculator\obj\Debug\net8.0\StackCalculator.AssemblyInfo.cs
+F:\C#\StackCalculator\StackCalculator\obj\Debug\net8.0\StackCalculator.csproj.CoreCompileInputs.cache
+F:\C#\StackCalculator\StackCalculator\obj\Debug\net8.0\StackCalculator.sourcelink.json
+F:\C#\StackCalculator\StackCalculator\obj\Debug\net8.0\StackCalculator.dll
+F:\C#\StackCalculator\StackCalculator\obj\Debug\net8.0\refint\StackCalculator.dll
+F:\C#\StackCalculator\StackCalculator\obj\Debug\net8.0\StackCalculator.pdb
+F:\C#\StackCalculator\StackCalculator\obj\Debug\net8.0\StackCalculator.genruntimeconfig.cache
+F:\C#\StackCalculator\StackCalculator\obj\Debug\net8.0\ref\StackCalculator.dll

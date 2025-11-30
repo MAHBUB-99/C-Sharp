@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C#\\HangfireTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02B2DA6D-B653-4BD7-8B02-8FB62C96A177}|HangfireTest\\HangfireTest.csproj|f:\\c#\\hangfiretest\\hangfiretest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B2DA6D-B653-4BD7-8B02-8FB62C96A177}|HangfireTest\\HangfireTest.csproj|solutionrelative:hangfiretest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B2DA6D-B653-4BD7-8B02-8FB62C96A177}|HangfireTest\\HangfireTest.csproj|f:\\c#\\hangfiretest\\hangfiretest\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B2DA6D-B653-4BD7-8B02-8FB62C96A177}|HangfireTest\\HangfireTest.csproj|solutionrelative:hangfiretest\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B2DA6D-B653-4BD7-8B02-8FB62C96A177}|HangfireTest\\HangfireTest.csproj|f:\\c#\\hangfiretest\\hangfiretest\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B2DA6D-B653-4BD7-8B02-8FB62C96A177}|HangfireTest\\HangfireTest.csproj|solutionrelative:hangfiretest\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B2DA6D-B653-4BD7-8B02-8FB62C96A177}|HangfireTest\\HangfireTest.csproj|f:\\c#\\hangfiretest\\hangfiretest\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B2DA6D-B653-4BD7-8B02-8FB62C96A177}|HangfireTest\\HangfireTest.csproj|solutionrelative:hangfiretest\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B2DA6D-B653-4BD7-8B02-8FB62C96A177}|HangfireTest\\HangfireTest.csproj|f:\\c#\\hangfiretest\\hangfiretest\\services\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B2DA6D-B653-4BD7-8B02-8FB62C96A177}|HangfireTest\\HangfireTest.csproj|solutionrelative:hangfiretest\\services\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 136,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "F:\\C#\\HangfireTest\\HangfireTest\\Services\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "HangfireTest\\Services\\IProductRepository.cs",
+              "ToolTip": "F:\\C#\\HangfireTest\\HangfireTest\\Services\\IProductRepository.cs",
+              "RelativeToolTip": "HangfireTest\\Services\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T16:35:18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\C#\\HangfireTest\\HangfireTest\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "HangfireTest\\Models\\Product.cs",
+              "ToolTip": "F:\\C#\\HangfireTest\\HangfireTest\\Models\\Product.cs",
+              "RelativeToolTip": "HangfireTest\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T16:28:45.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 245,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "F:\\C#\\HangfireTest\\HangfireTest\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "HangfireTest\\Services\\NotificationService.cs",
+              "ToolTip": "F:\\C#\\HangfireTest\\HangfireTest\\Services\\NotificationService.cs",
+              "RelativeToolTip": "HangfireTest\\Services\\NotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T18:56:17.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C#\\HangfireTest\\HangfireTest\\Program.cs",
+              "RelativeDocumentMoniker": "HangfireTest\\Program.cs",
+              "ToolTip": "F:\\C#\\HangfireTest\\HangfireTest\\Program.cs",
+              "RelativeToolTip": "HangfireTest\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwDAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T17:21:11.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "F:\\C#\\HangfireTest\\HangfireTest\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "HangfireTest\\Controllers\\ProductController.cs",
+              "ToolTip": "F:\\C#\\HangfireTest\\HangfireTest\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "HangfireTest\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAvwFAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T16:31:56.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
