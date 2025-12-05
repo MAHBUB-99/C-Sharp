@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace KC_O.Application.DTOs.Response
+namespace KC_O.Application.Constant
 {
     public abstract class ResponseStringResources
     {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KC-O.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6885f14e0ba1c2aa3999f2f94164a210443f9606")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e7eee6e5baffebf9b4b1993e9ed6a567bce3609")]
 [assembly: System.Reflection.AssemblyProductAttribute("KC-O.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KC-O.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

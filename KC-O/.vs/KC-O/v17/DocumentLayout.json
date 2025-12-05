@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "F:\\C#\\KC-O\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B5A54870-9B75-41BD-90B8-A6092683AB96}|KC-O.Application\\KC-O.Application.csproj|f:\\c#\\kc-o\\kc-o.application\\constant\\responsestringresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A54870-9B75-41BD-90B8-A6092683AB96}|KC-O.Application\\KC-O.Application.csproj|solutionrelative:kc-o.application\\constant\\responsestringresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B5A54870-9B75-41BD-90B8-A6092683AB96}|KC-O.Application\\KC-O.Application.csproj|f:\\c#\\kc-o\\kc-o.application\\dtos\\response\\optionoutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5A54870-9B75-41BD-90B8-A6092683AB96}|KC-O.Application\\KC-O.Application.csproj|solutionrelative:kc-o.application\\dtos\\response\\optionoutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A54870-9B75-41BD-90B8-A6092683AB96}|KC-O.Application\\KC-O.Application.csproj|f:\\c#\\kc-o\\kc-o.application\\dtos\\response\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A54870-9B75-41BD-90B8-A6092683AB96}|KC-O.Application\\KC-O.Application.csproj|solutionrelative:kc-o.application\\dtos\\response\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A54870-9B75-41BD-90B8-A6092683AB96}|KC-O.Application\\KC-O.Application.csproj|f:\\c#\\kc-o\\kc-o.application\\dtos\\response\\servicereponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A54870-9B75-41BD-90B8-A6092683AB96}|KC-O.Application\\KC-O.Application.csproj|solutionrelative:kc-o.application\\dtos\\response\\servicereponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5A54870-9B75-41BD-90B8-A6092683AB96}|KC-O.Application\\KC-O.Application.csproj|f:\\c#\\kc-o\\kc-o.application\\dtos\\response\\baseoutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,20 +31,8 @@
       "RelativeMoniker": "D:0:0:{B5A54870-9B75-41BD-90B8-A6092683AB96}|KC-O.Application\\KC-O.Application.csproj|solutionrelative:kc-o.application\\dtos\\response\\knowledge\\knowledgecategoryoutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5A54870-9B75-41BD-90B8-A6092683AB96}|KC-O.Application\\KC-O.Application.csproj|f:\\c#\\kc-o\\kc-o.application\\dtos\\response\\servicereponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5A54870-9B75-41BD-90B8-A6092683AB96}|KC-O.Application\\KC-O.Application.csproj|solutionrelative:kc-o.application\\dtos\\response\\servicereponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B5A54870-9B75-41BD-90B8-A6092683AB96}|KC-O.Application\\KC-O.Application.csproj|f:\\c#\\kc-o\\kc-o.application\\dtos\\response\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5A54870-9B75-41BD-90B8-A6092683AB96}|KC-O.Application\\KC-O.Application.csproj|solutionrelative:kc-o.application\\dtos\\response\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5A54870-9B75-41BD-90B8-A6092683AB96}|KC-O.Application\\KC-O.Application.csproj|f:\\c#\\kc-o\\kc-o.application\\dtos\\response\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5A54870-9B75-41BD-90B8-A6092683AB96}|KC-O.Application\\KC-O.Application.csproj|solutionrelative:kc-o.application\\dtos\\response\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5A54870-9B75-41BD-90B8-A6092683AB96}|KC-O.Application\\KC-O.Application.csproj|f:\\c#\\kc-o\\kc-o.application\\dtos\\response\\responsestringresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5A54870-9B75-41BD-90B8-A6092683AB96}|KC-O.Application\\KC-O.Application.csproj|solutionrelative:kc-o.application\\dtos\\response\\responsestringresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5A54870-9B75-41BD-90B8-A6092683AB96}|KC-O.Application\\KC-O.Application.csproj|f:\\c#\\kc-o\\kc-o.application\\dtos\\response\\paginatedresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,37 +70,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 203,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "KnowledgeCategoryOutDTO.cs",
-              "DocumentMoniker": "F:\\C#\\KC-O\\KC-O.Application\\DTOs\\Response\\Knowledge\\KnowledgeCategoryOutDTO.cs",
-              "RelativeDocumentMoniker": "KC-O.Application\\DTOs\\Response\\Knowledge\\KnowledgeCategoryOutDTO.cs",
-              "ToolTip": "F:\\C#\\KC-O\\KC-O.Application\\DTOs\\Response\\Knowledge\\KnowledgeCategoryOutDTO.cs",
-              "RelativeToolTip": "KC-O.Application\\DTOs\\Response\\Knowledge\\KnowledgeCategoryOutDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ResponseStringResources.cs",
+              "DocumentMoniker": "F:\\C#\\KC-O\\KC-O.Application\\Constant\\ResponseStringResources.cs",
+              "RelativeDocumentMoniker": "KC-O.Application\\Constant\\ResponseStringResources.cs",
+              "ToolTip": "F:\\C#\\KC-O\\KC-O.Application\\Constant\\ResponseStringResources.cs",
+              "RelativeToolTip": "KC-O.Application\\Constant\\ResponseStringResources.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwBcAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T19:19:43.106Z",
+              "WhenOpened": "2025-11-30T19:12:48.201Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "KnowledgeOutDTO.cs",
-              "DocumentMoniker": "F:\\C#\\KC-O\\KC-O.Application\\DTOs\\Response\\Knowledge\\KnowledgeOutDTO.cs",
-              "RelativeDocumentMoniker": "KC-O.Application\\DTOs\\Response\\Knowledge\\KnowledgeOutDTO.cs",
-              "ToolTip": "F:\\C#\\KC-O\\KC-O.Application\\DTOs\\Response\\Knowledge\\KnowledgeOutDTO.cs",
-              "RelativeToolTip": "KC-O.Application\\DTOs\\Response\\Knowledge\\KnowledgeOutDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "F:\\C#\\KC-O\\KC-O.Application\\DTOs\\Response\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "KC-O.Application\\DTOs\\Response\\ResponseModel.cs",
+              "ToolTip": "F:\\C#\\KC-O\\KC-O.Application\\DTOs\\Response\\ResponseModel.cs",
+              "RelativeToolTip": "KC-O.Application\\DTOs\\Response\\ResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T19:19:08.012Z",
+              "WhenOpened": "2025-11-30T19:10:20.301Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "OptionOutDTO.cs",
+              "DocumentMoniker": "F:\\C#\\KC-O\\KC-O.Application\\DTOs\\Response\\OptionOutDTO.cs",
+              "RelativeDocumentMoniker": "KC-O.Application\\DTOs\\Response\\OptionOutDTO.cs",
+              "ToolTip": "F:\\C#\\KC-O\\KC-O.Application\\DTOs\\Response\\OptionOutDTO.cs",
+              "RelativeToolTip": "KC-O.Application\\DTOs\\Response\\OptionOutDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T19:04:46.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ServiceReponse.cs",
               "DocumentMoniker": "F:\\C#\\KC-O\\KC-O.Application\\DTOs\\Response\\ServiceReponse.cs",
               "RelativeDocumentMoniker": "KC-O.Application\\DTOs\\Response\\ServiceReponse.cs",
@@ -113,33 +130,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ResponseStringResources.cs",
-              "DocumentMoniker": "F:\\C#\\KC-O\\KC-O.Application\\DTOs\\Response\\ResponseStringResources.cs",
-              "RelativeDocumentMoniker": "KC-O.Application\\DTOs\\Response\\ResponseStringResources.cs",
-              "ToolTip": "F:\\C#\\KC-O\\KC-O.Application\\DTOs\\Response\\ResponseStringResources.cs",
-              "RelativeToolTip": "KC-O.Application\\DTOs\\Response\\ResponseStringResources.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T19:12:48.201Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ResponseModel.cs",
-              "DocumentMoniker": "F:\\C#\\KC-O\\KC-O.Application\\DTOs\\Response\\ResponseModel.cs",
-              "RelativeDocumentMoniker": "KC-O.Application\\DTOs\\Response\\ResponseModel.cs",
-              "ToolTip": "F:\\C#\\KC-O\\KC-O.Application\\DTOs\\Response\\ResponseModel.cs",
-              "RelativeToolTip": "KC-O.Application\\DTOs\\Response\\ResponseModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T19:10:20.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "KnowledgeOutDTO.cs",
+              "DocumentMoniker": "F:\\C#\\KC-O\\KC-O.Application\\DTOs\\Response\\Knowledge\\KnowledgeOutDTO.cs",
+              "RelativeDocumentMoniker": "KC-O.Application\\DTOs\\Response\\Knowledge\\KnowledgeOutDTO.cs",
+              "ToolTip": "F:\\C#\\KC-O\\KC-O.Application\\DTOs\\Response\\Knowledge\\KnowledgeOutDTO.cs",
+              "RelativeToolTip": "KC-O.Application\\DTOs\\Response\\Knowledge\\KnowledgeOutDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T19:19:08.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Response.cs",
               "DocumentMoniker": "F:\\C#\\KC-O\\KC-O.Application\\DTOs\\Response\\Response.cs",
               "RelativeDocumentMoniker": "KC-O.Application\\DTOs\\Response\\Response.cs",
@@ -160,25 +163,23 @@
               "RelativeToolTip": "KC-O.Application\\DTOs\\Response\\PaginatedResponseModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T19:06:25.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-30T19:06:25.91Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OptionOutDTO.cs",
-              "DocumentMoniker": "F:\\C#\\KC-O\\KC-O.Application\\DTOs\\Response\\OptionOutDTO.cs",
-              "RelativeDocumentMoniker": "KC-O.Application\\DTOs\\Response\\OptionOutDTO.cs",
-              "ToolTip": "F:\\C#\\KC-O\\KC-O.Application\\DTOs\\Response\\OptionOutDTO.cs",
-              "RelativeToolTip": "KC-O.Application\\DTOs\\Response\\OptionOutDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "KnowledgeCategoryOutDTO.cs",
+              "DocumentMoniker": "F:\\C#\\KC-O\\KC-O.Application\\DTOs\\Response\\Knowledge\\KnowledgeCategoryOutDTO.cs",
+              "RelativeDocumentMoniker": "KC-O.Application\\DTOs\\Response\\Knowledge\\KnowledgeCategoryOutDTO.cs",
+              "ToolTip": "F:\\C#\\KC-O\\KC-O.Application\\DTOs\\Response\\Knowledge\\KnowledgeCategoryOutDTO.cs",
+              "RelativeToolTip": "KC-O.Application\\DTOs\\Response\\Knowledge\\KnowledgeCategoryOutDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T19:04:46.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-30T19:19:43.106Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "BaseOutDTO.cs",
               "DocumentMoniker": "F:\\C#\\KC-O\\KC-O.Application\\DTOs\\Response\\BaseOutDTO.cs",
               "RelativeDocumentMoniker": "KC-O.Application\\DTOs\\Response\\BaseOutDTO.cs",
@@ -186,8 +187,7 @@
               "RelativeToolTip": "KC-O.Application\\DTOs\\Response\\BaseOutDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T19:02:09.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-30T19:02:09.553Z"
             },
             {
               "$type": "Document",
@@ -199,8 +199,7 @@
               "RelativeToolTip": "KC-O.Application\\DTOs\\Request\\Knowledge\\KnowledgeCategoryInListDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T19:00:35.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-30T19:00:35.163Z"
             },
             {
               "$type": "Document",
@@ -212,8 +211,7 @@
               "RelativeToolTip": "KC-O.Application\\DTOs\\Request\\Knowledge\\KnowledgeCategoryInDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T18:59:50.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-30T18:59:50.72Z"
             },
             {
               "$type": "Document",
@@ -225,8 +223,7 @@
               "RelativeToolTip": "KC-O.Application\\DTOs\\Request\\PaginationBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T18:57:12.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-30T18:57:12.399Z"
             },
             {
               "$type": "Document",
@@ -238,8 +235,7 @@
               "RelativeToolTip": "KC-O.Application\\DTOs\\Request\\Knowledge\\KnowledgeInListDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T18:56:35.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-30T18:56:35.829Z"
             },
             {
               "$type": "Document",
@@ -251,8 +247,7 @@
               "RelativeToolTip": "KC-O.Application\\DTOs\\Request\\Knowledge\\KnowledgeInDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T18:55:29.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-30T18:55:29.839Z"
             },
             {
               "$type": "Document",
@@ -264,12 +259,7 @@
               "RelativeToolTip": "KC-O.Core\\Entities\\Knowledge\\KnowledgeCategory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T18:51:34.164Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "WhenOpened": "2025-11-30T18:51:34.164Z"
             }
           ]
         }
