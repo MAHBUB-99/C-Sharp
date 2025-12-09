@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C#\\UOW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F423306F-C657-498F-963C-8C43807F2BD8}|UOW\\UOW.csproj|f:\\c#\\uow\\uow\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F423306F-C657-498F-963C-8C43807F2BD8}|UOW\\UOW.csproj|solutionrelative:uow\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F423306F-C657-498F-963C-8C43807F2BD8}|UOW\\UOW.csproj|f:\\c#\\uow\\uow\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F423306F-C657-498F-963C-8C43807F2BD8}|UOW\\UOW.csproj|solutionrelative:uow\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F423306F-C657-498F-963C-8C43807F2BD8}|UOW\\UOW.csproj|f:\\c#\\uow\\uow\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F423306F-C657-498F-963C-8C43807F2BD8}|UOW\\UOW.csproj|solutionrelative:uow\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F423306F-C657-498F-963C-8C43807F2BD8}|UOW\\UOW.csproj|f:\\c#\\uow\\uow\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F423306F-C657-498F-963C-8C43807F2BD8}|UOW\\UOW.csproj|solutionrelative:uow\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F423306F-C657-498F-963C-8C43807F2BD8}|UOW\\UOW.csproj|f:\\c#\\uow\\uow\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F423306F-C657-498F-963C-8C43807F2BD8}|UOW\\UOW.csproj|solutionrelative:uow\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F423306F-C657-498F-963C-8C43807F2BD8}|UOW\\UOW.csproj|f:\\c#\\uow\\uow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F423306F-C657-498F-963C-8C43807F2BD8}|UOW\\UOW.csproj|solutionrelative:uow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F423306F-C657-498F-963C-8C43807F2BD8}|UOW\\UOW.csproj|f:\\c#\\uow\\uow\\migrations\\20251209185353_initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F423306F-C657-498F-963C-8C43807F2BD8}|UOW\\UOW.csproj|solutionrelative:uow\\migrations\\20251209185353_initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F423306F-C657-498F-963C-8C43807F2BD8}|UOW\\UOW.csproj|f:\\c#\\uow\\uow\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F423306F-C657-498F-963C-8C43807F2BD8}|UOW\\UOW.csproj|solutionrelative:uow\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F423306F-C657-498F-963C-8C43807F2BD8}|UOW\\UOW.csproj|f:\\c#\\uow\\uow\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F423306F-C657-498F-963C-8C43807F2BD8}|UOW\\UOW.csproj|solutionrelative:uow\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F423306F-C657-498F-963C-8C43807F2BD8}|UOW\\UOW.csproj|f:\\c#\\uow\\uow\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F423306F-C657-498F-963C-8C43807F2BD8}|UOW\\UOW.csproj|solutionrelative:uow\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F423306F-C657-498F-963C-8C43807F2BD8}|UOW\\UOW.csproj|f:\\c#\\uow\\uow\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F423306F-C657-498F-963C-8C43807F2BD8}|UOW\\UOW.csproj|solutionrelative:uow\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F423306F-C657-498F-963C-8C43807F2BD8}|UOW\\UOW.csproj|f:\\c#\\uow\\uow\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F423306F-C657-498F-963C-8C43807F2BD8}|UOW\\UOW.csproj|solutionrelative:uow\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F423306F-C657-498F-963C-8C43807F2BD8}|UOW\\UOW.csproj|f:\\c#\\uow\\uow\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F423306F-C657-498F-963C-8C43807F2BD8}|UOW\\UOW.csproj|solutionrelative:uow\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F423306F-C657-498F-963C-8C43807F2BD8}|UOW\\UOW.csproj|f:\\c#\\uow\\uow\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F423306F-C657-498F-963C-8C43807F2BD8}|UOW\\UOW.csproj|solutionrelative:uow\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F423306F-C657-498F-963C-8C43807F2BD8}|UOW\\UOW.csproj|f:\\c#\\uow\\uow\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F423306F-C657-498F-963C-8C43807F2BD8}|UOW\\UOW.csproj|solutionrelative:uow\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F423306F-C657-498F-963C-8C43807F2BD8}|UOW\\UOW.csproj|f:\\c#\\uow\\uow\\uow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F423306F-C657-498F-963C-8C43807F2BD8}|UOW\\UOW.csproj|solutionrelative:uow\\uow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F423306F-C657-498F-963C-8C43807F2BD8}|UOW\\UOW.csproj|f:\\c#\\uow\\uow\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F423306F-C657-498F-963C-8C43807F2BD8}|UOW\\UOW.csproj|solutionrelative:uow\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C#\\UOW\\UOW\\Program.cs",
+              "RelativeDocumentMoniker": "UOW\\Program.cs",
+              "ToolTip": "F:\\C#\\UOW\\UOW\\Program.cs",
+              "RelativeToolTip": "UOW\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:43:00.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "F:\\C#\\UOW\\UOW\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "UOW\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "F:\\C#\\UOW\\UOW\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "UOW\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:38:24.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "F:\\C#\\UOW\\UOW\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "UOW\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "F:\\C#\\UOW\\UOW\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "UOW\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:37:24.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\C#\\UOW\\UOW\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "UOW\\Models\\Product.cs",
+              "ToolTip": "F:\\C#\\UOW\\UOW\\Models\\Product.cs",
+              "RelativeToolTip": "UOW\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:13:01.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "F:\\C#\\UOW\\UOW\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "UOW\\Models\\Order.cs",
+              "ToolTip": "F:\\C#\\UOW\\UOW\\Models\\Order.cs",
+              "RelativeToolTip": "UOW\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:13:34.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "F:\\C#\\UOW\\UOW\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "UOW\\Repositories\\OrderRepository.cs",
+              "ToolTip": "F:\\C#\\UOW\\UOW\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "UOW\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:30:36.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "F:\\C#\\UOW\\UOW\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "UOW\\Repositories\\IRepository.cs",
+              "ToolTip": "F:\\C#\\UOW\\UOW\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "UOW\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:20:54.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "F:\\C#\\UOW\\UOW\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "UOW\\Controllers\\ProductsController.cs",
+              "ToolTip": "F:\\C#\\UOW\\UOW\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "UOW\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAowD0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:45:01.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\C#\\UOW\\UOW\\appsettings.json",
+              "RelativeDocumentMoniker": "UOW\\appsettings.json",
+              "ToolTip": "F:\\C#\\UOW\\UOW\\appsettings.json",
+              "RelativeToolTip": "UOW\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-09T18:44:14.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "F:\\C#\\UOW\\UOW\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "UOW\\Controllers\\OrdersController.cs",
+              "ToolTip": "F:\\C#\\UOW\\UOW\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "UOW\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAMwEEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:48:58.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20251209185353_Initial-Migration.cs",
+              "DocumentMoniker": "F:\\C#\\UOW\\UOW\\Migrations\\20251209185353_Initial-Migration.cs",
+              "RelativeDocumentMoniker": "UOW\\Migrations\\20251209185353_Initial-Migration.cs",
+              "ToolTip": "F:\\C#\\UOW\\UOW\\Migrations\\20251209185353_Initial-Migration.cs",
+              "RelativeToolTip": "UOW\\Migrations\\20251209185353_Initial-Migration.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:53:53.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "F:\\C#\\UOW\\UOW\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "UOW\\Repositories\\IProductRepository.cs",
+              "ToolTip": "F:\\C#\\UOW\\UOW\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "UOW\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:27:47.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "F:\\C#\\UOW\\UOW\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "UOW\\Repositories\\IOrderRepository.cs",
+              "ToolTip": "F:\\C#\\UOW\\UOW\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "UOW\\Repositories\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:29:59.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "F:\\C#\\UOW\\UOW\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "UOW\\Repositories\\ProductRepository.cs",
+              "ToolTip": "F:\\C#\\UOW\\UOW\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "UOW\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:28:39.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\C#\\UOW\\UOW\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "UOW\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\C#\\UOW\\UOW\\ApplicationDbContext.cs",
+              "RelativeToolTip": "UOW\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:14:50.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "F:\\C#\\UOW\\UOW\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "UOW\\Repositories\\Repository.cs",
+              "ToolTip": "F:\\C#\\UOW\\UOW\\Repositories\\Repository.cs",
+              "RelativeToolTip": "UOW\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:21:45.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UOW",
+              "DocumentMoniker": "F:\\C#\\UOW\\UOW\\UOW.csproj",
+              "RelativeDocumentMoniker": "UOW\\UOW.csproj",
+              "ToolTip": "F:\\C#\\UOW\\UOW\\UOW.csproj",
+              "RelativeToolTip": "UOW\\UOW.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-09T18:14:39.198Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
